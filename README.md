@@ -2,7 +2,8 @@
   <p>Atualizado pela última vez em 12 de agosto de 2022</p>
   <h1>Olá, Pessoa interessada!</h1>
   <h2>Eu sou Eric Moritsuka, desenvolvedor Front-end em formação e que está sempre procurando algo pra aprender. Esse é o meu repositório, muito prazer.</h2>
-  <a href="https://ericthmoritsuka.github.io/">Link para o meu curriculo e portifólio aqui.</a>
+  <a href="https://ericthmoritsuka.github.io/" target="_blank">Link para o meu curriculo e portifólio aqui.</a>
+  <br>
 </header>
 
 <div>
