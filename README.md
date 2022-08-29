@@ -16,7 +16,7 @@
   <img align="center" alt="Eric-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Eric-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Eric-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Eric-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/333038684993748994/949446131283271750/12039390_540776696079796_3223157873716603566_n.jpg">
+  <a href="https://ericthmoritsuka.github.io/" target="_blank"><img align="right" alt="Eric-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/333038684993748994/949446131283271750/12039390_540776696079796_3223157873716603566_n.jpg"></a>
 </div>
   
 <div> 
