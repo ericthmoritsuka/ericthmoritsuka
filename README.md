@@ -1,5 +1,5 @@
 <header>
-  <p>Atualizado pela última vez em 12 de agosto de 2022</p>
+  <p>Atualizado pela última vez em 20 de março de 2023</p>
   <h1>Olá, Pessoa interessada!</h1>
   <h2>Eu sou Eric Moritsuka, desenvolvedor Front-end e Technical Writer em formação e eu estou sempre procurando algo pra aprender. Muito prazer.</h2>
 </header>
