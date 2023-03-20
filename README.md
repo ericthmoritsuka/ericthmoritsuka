@@ -24,7 +24,6 @@
   <a href="https://ericthmoritsuka.github.io/" target="_blank">Veja o meu currículo e portifólio de estudos aqui.</a>
   <p>Entre em contato através dos seguintes links:</p>
    <a href="https://www.linkedin.com/in/ericthmoritsuka/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.youtube.com/channel/UC9bwv82L_f3oiDR4qchr_pA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href = "mailto:ericthmoritsuka@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 </div>
