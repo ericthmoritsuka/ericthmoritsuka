@@ -4,11 +4,11 @@
   <h2>Eu sou Eric Moritsuka, desenvolvedor Front-end e Technical Writer em formação e eu estou sempre procurando algo pra aprender. Muito prazer.</h2>
 </header>
 
-<div>
+<!-- <div>
   <a href="https://github.com/ericthmoritsuka">
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ericthmoritsuka&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ericthmoritsuka&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+</div> -->
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Eric-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
