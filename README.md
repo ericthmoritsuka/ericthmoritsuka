@@ -1,7 +1,7 @@
 <header>
-  <p>Atualizado pela última vez em 12 de agosto de 2022</p>
+  <p>Atualizado pela última vez em 07 de julho de 2023</p>
   <h1>Olá, Pessoa interessada!</h1>
-  <h2>Eu sou Eric Moritsuka, desenvolvedor Front-end em formação e que está sempre procurando algo pra aprender. Esse é o meu repositório, muito prazer.</h2>
+  <h2>Eu sou Eric Moritsuka, Technical Writer e desenvolvedor Front-end. Esse é o meu repositório, muito prazer.</h2>
 </header>
 
 <div>
@@ -22,10 +22,9 @@
 <div> 
   <h2>Contato.</h2>
   <p>Entre em contato através dos seguintes links:</p>
-    <a href="https://ericthmoritsuka.github.io/" target="_blank">Link para o meu curriculo e portifólio aqui.</a>
+  <a href="https://ericthmoritsuka.github.io/" target="_blank">Link para o meu curriculo e portifólio aqui.</a>
    <a href="https://www.linkedin.com/in/ericthmoritsuka/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.youtube.com/channel/UC9bwv82L_f3oiDR4qchr_pA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href = "mailto:ericthmoritsuka@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 </div>
-    
