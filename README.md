@@ -1,7 +1,7 @@
 <header>
   <p>Atualizado pela última vez em 07 de julho de 2023</p>
   <h1>Olá, Pessoa interessada!</h1>
-  <h2>Eu sou Eric Moritsuka, Technical Writer e desenvolvedor Front-end. Esse é o meu repositório, muito prazer.</h2>
+  <h2>Eu sou Eric Moritsuka, Technical Writer e desenvolvedor Front-end quebra-galho. Esse é o meu repositório, muito prazer.</h2>
 </header>
 
 <!-- <div>
