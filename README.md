@@ -1,30 +1,41 @@
-<header>
-  <p>Atualizado pela última vez em 07 de julho de 2023</p>
-  <h1>Olá, Pessoa interessada!</h1>
-  <h2>Eu sou Eric Moritsuka, Enablement Engineer e desenvolvedor Front-end quebra-galho. Esse é o meu repositório, muito prazer.</h2>
-</header>
+<div align="center">
 
-<!-- <div>
-  <a href="https://github.com/ericthmoritsuka">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ericthmoritsuka&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ericthmoritsuka&layout=compact&langs_count=7&theme=dracula"/>
-</div> -->
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Eric-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Eric-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Eric-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Eric-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Eric-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Eric-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <a href="https://ericthmoritsuka.github.io/" target="_blank"><img align="right" alt="Eric-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/333038684993748994/949446131283271750/12039390_540776696079796_3223157873716603566_n.jpg"></a>
-</div>
-  
-<div> 
-  <h2>Contato.</h2>
-  <a href="https://ericthmoritsuka.github.io/" target="_blank">Veja o meu currículo e portifólio de estudos aqui.</a>
-  <p>Entre em contato através dos seguintes links:</p>
-   <a href="https://www.linkedin.com/in/ericthmoritsuka/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:ericthmoritsuka@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<img src="https://github.com/ericthmoritsuka.png?size=160" width="160" alt="Foto de perfil de Eric Moritsuka">
+
+<h1>Olá, pessoa interessada!</h1>
+
+<p>
+  Eu sou <strong>Eric Moritsuka</strong>, Enablement Engineer e desenvolvedor front-end quebra-galho.<br>
+  Esse é o meu repositório, muito prazer.
+</p>
+
+<p>
+  <a href="https://ericthmoritsuka.github.io/"><img alt="Portfólio" src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/ericthmoritsuka/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
+
+<h2>Tecnologias</h2>
+
+<p>
+  <img alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  &nbsp;
+  <img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  &nbsp;
+  <img alt="React" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  &nbsp;
+  <img alt="HTML5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  &nbsp;
+  <img alt="CSS3" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  &nbsp;
+  <img alt="Java" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+</p>
+
+<h2>Contato</h2>
+
+<p>
+  Meu currículo e meu portfólio de estudos estão em
+  <a href="https://ericthmoritsuka.github.io/">ericthmoritsuka.github.io</a>.<br>
+  Para falar comigo, use o LinkedIn.
+</p>
 
 </div>
