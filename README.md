@@ -1,11 +1,9 @@
 <div align="center">
 
-<img src="https://github.com/ericthmoritsuka.png?size=160" width="160" alt="Foto de perfil de Eric Moritsuka">
-
 <h1>Olá, pessoa interessada!</h1>
 
 <p>
-  Eu sou <strong>Eric Moritsuka</strong>, Enablement Engineer e desenvolvedor front-end quebra-galho.<br>
+  Eu sou <strong>Eric Moritsuka</strong>, Enablement Engineer e desenvolvedor front-end quebra-galho, aqui de Recife - PE.<br>
   Esse é o meu repositório, muito prazer.
 </p>
 
@@ -17,17 +15,21 @@
 <h2>Tecnologias</h2>
 
 <p>
-  <img alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="HTML5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  &nbsp;
+  <img alt="CSS3" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   &nbsp;
   <img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   &nbsp;
   <img alt="React" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   &nbsp;
-  <img alt="HTML5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  &nbsp;
-  <img alt="CSS3" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   &nbsp;
   <img alt="Java" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  &nbsp;
+  <img alt="Markdown" height="40" src="https://cdn.simpleicons.org/markdown/9E9E9E">
+  &nbsp;
+  <img alt="Git" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </p>
 
 <h2>Contato</h2>
